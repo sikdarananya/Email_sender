@@ -1,5 +1,7 @@
-#Email Sender
-#Overview
+Email Sender
+
+
+Overview
 Email Sender is a Python-based project designed to facilitate the process of sending emails programmatically. This project utilizes the smtplib library for sending emails and can be easily customized to integrate with various email services. It supports sending plain text emails, as well as emails with HTML content and attachments.
 
 Features
